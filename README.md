@@ -1,1 +1,1 @@
-[![n3k0's stats!](https://github-readme-stats.vercel.app/api?username=quppyI)](https://github.com/anuraghazra/github-readme-stats)
+[![n3k0's stats!](https://github-readme-stats.vercel.app/api?username=quppyI)]([https://github.com/anuraghazra/github-readme-stats](https://camo.githubusercontent.com/90ee292001b45c9b57fe13eae5c68883009a10935ee62a5559e8ef35babb6cdb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d717570707949))
